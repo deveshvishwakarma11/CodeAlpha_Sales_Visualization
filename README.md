@@ -56,7 +56,7 @@ The objective of this project is to analyze and visualize sales data using Pytho
 
 ### Top 10 Sub-Categories by Sales
 
-![Top Sub Categories](images/top_subcategories.png)
+![Top Sub Categories](images/top_10_subcategories.png)
 
 ## 🔍 Key Findings
 
